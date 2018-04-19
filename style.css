@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-image: url("images/atmosphere-blue.jpg");
+}
+
+#quotes-container {
+    width: 50%;
+    margin: 100px auto;
+}
+
+#quotes-title {
+    color: #E6E6DC;
+    font-size: 30px;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Muli', sans-serif;
+    font-weight: 200;
+}
+
+#quotes-box {
+    width: 500px;
+    height: 300px;
+    color: #fff;
+    margin: auto;
+    padding: 40px;
+    font-size: 20px;
+    font-family: 'Assistant', sans-serif;
+    font-weight: 100;
+    text-align: justify;
+    line-height: 30px;
+}
+
+#more-quotes {
+    width: 50%;
+    color: #fff;
+    font-family: 'Muli', sans-serif;
+    font-weight: 200;
+    text-align: center;
+    font-size: 25px;
+    margin: auto;
+    background-color: #0099CC;
+    padding: 10px;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+#more-quotes:hover {
+    cursor: pointer;
+    background-color: #66CCFF;
+}
+
+#twitter-icon {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 40px;
+    color: #0084b4;
+}
+
+.fab:hover {
+    cursor: pointer;
+    color: #66CCFF;
+}
+
+
+#footer {
+    margin: auto;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+
+#author {
+    color: red;
+}
+
+ 
